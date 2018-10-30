@@ -100,7 +100,7 @@ openDropdown.classList.remove('show');
 </script>
 
 <h1 align="center">Volleyball Statistics</h1>
-<img src="/Users/laura/Desktop/game-stats/ea9857161bfad4335c7fc66250b69e72--volleyball-crafts-coaching-volleyball.jpg" alt = "volleyball" width=200 align="right">
+<img src="/Users/laura/Desktop/game-stats/volleyball.jpg" alt = "volleyball" width=200 align="right">
 <h2>How to manage your teams statistics<h2>
 <ol> 
 <li>Create a team profile</li>
