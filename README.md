@@ -210,10 +210,6 @@ openDropdown.classList.remove('show');
 </table>
 </div>
 
-<script>
-
-
-</script>
 </body>
 </html>
 
