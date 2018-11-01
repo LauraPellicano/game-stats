@@ -100,7 +100,7 @@ openDropdown.classList.remove('show');
 </script>
 
 <h1 align="center">Volleyball Statistics</h1>
-<img> src="/Users/laura/Desktop/game-stats/volleyball.jpg" alt = "volleyball" width=200 align="right"</img>
+<img src="/Users/laura/Desktop/game-stats/volleyball.jpg" alt = "volleyball" width=200 align="right">
 <h2>How to manage your teams statistics<h2>
 <ol> 
 <li>Create a team profile</li>
@@ -119,98 +119,107 @@ openDropdown.classList.remove('show');
 <th>Number of players </th>
 <th>Games and dates </th>
 </tr>
-<td><input type="text" name="teamname"></td>
-<td><input type="text" name="coachname"></td>
-<td><input type="text" number="player"></td>
-<td><input type="text" name = "gamesanddates"></td>
+<form action="laurapellicano.github.io/game-stats/" method="post"> 
+<label for="teamname">Team Name:</label>
+<input type="text" name="teamname">
+<label for="coachname">Coach Name:</label>
+<input type="text" name="coachname">
+<label for="player">Player Name:</label>
+<input type="text" number="player">
+<label for="gamesanddates">Game and Date:</label>
+<input type="text" name = "gamesanddates">
 </table>
-
-<br/><br/>
-
-<p2> Game Statistics</p2>
-<table id = "table2" style="width:100%">
-<tr>
-<th>Player</th>
-<th>Serve(in play)</th> 
-<th>Serve (ace) </th>
-<th>Serve (error) </th>
-<th>Serve Receive</th>
-<th>Serve Receive (error) </th>
-<th>Assist(for kill) </th>
-<th>Kill </th>
-<th>Kill(error) </th>
-<th>Dig </th>
-<th>Dig (error) </th>
-</tr>
-<tr>
-<td><input type="text" name="name"><br></td>
-<td><input type="text" name="serveinplay"><br></td>
-<td><input type="text" name="serveace"><br></td>
-<td><input type="text" name="serveerror"><br></td>
-<td><input type="text" name="servereceive"><br></td>
-<td><input type="text" name="servereceiveerror"<br></td>
-<td><input type="text" name="assist"><br></td>
-<td><input type="text" name="kill"><br></td>
-<td><input type="text" name="killerror"><br></td>
-<td><input type="text" name="dig"><br></td>
-<td><input type="text" name="digerror"><br></td>
-</tr>
-<tr>
-<td><input type="text" name="name"><br></td>
-<td><input type="text" name="serveinplay"><br></td>
-<td><input type="text" name="serveace"><br></td>
-<td><input type="text" name="serveerror"><br></td>
-<td><input type="text" name="servereceive"><br></td>
-<td><input type="text" name="servereceiveerror"<br></td>
-<td><input type="text" name="assist"><br></td>
-<td><input type="text" name="kill"><br></td>
-<td><input type="text" name="killerror"><br></td>
-<td><input type="text" name="dig"><br></td>
-<td><input type="text" name="digerror"><br></td>
-</tr>
-<tr>
-<td><input type="text" name="name"></td>
-<td><input type="text" name="serveinplay"><br></td>
-<td><input type="text" name="serveace"><br></td>
-<td><input type="text" name="serveerror"><br></td>
-<td><input type="text" name="servereceive"><br></td>
-<td><input type="text" name="servereceiveerror"<br></td>
-<td><input type="text" name="assist"><br></td>
-<td><input type="text" name="kill"><br></td>
-<td><input type="text" name="killerror"><br></td>
-<td><input type="text" name="dig"><br></td>
-<td><input type="text" name="digerror"><br></td>
-</tr>
-<tr>
-<td><input type="text" name="name"></td>
-<td><input type="text" name="serveinplay"><br></td>
-<td><input type="text" name="serveace"><br></td>
-<td><input type="text" name="serveerror"><br></td>
-<td><input type="text" name="servereceive"><br></td>
-<td><input type="text" name="servereceiveerror"<br></td>
-<td><input type="text" name="assist"><br></td>
-<td><input type="text" name="kill"><br></td>
-<td><input type="text" name="killerror"><br></td>
-<td><input type="text" name="dig"><br></td>
-<td><input type="text" name="digerror"><br></td>
-</tr>
-<tr>
-<td><input type="text" name="name"></td>
-<td><input type="text" name="serveinplay"><br></td>
-<td><input type="text" name="serveace"><br></td>
-<td><input type="text" name="serveerror"><br></td>
-<td><input type="text" name="servereceive"><br></td>
-<td><input type="text" name="servereceiveerror"<br></td>
-<td><input type="text" name="assist"><br></td>
-<td><input type="text" name="kill"><br></td>
-<td><input type="text" name="killerror"><br></td>
-<td><input type="text" name="dig"><br></td>
-<td><input type="text" name="digerror"><br></td>
-</tr>
-</table>
-</div>
-
-</body>
-</html>
-
-
+<div class="button">
+    <button type="submit">Send your message</button>
+      </div>
+      </form>
+      
+      <br/><br/>
+      
+      <p2> Game Statistics</p2>
+      <table id = "table2" style="width:100%">
+      <tr>
+      <th>Player</th>
+      <th>Serve(in play)</th> 
+      <th>Serve (ace) </th>
+      <th>Serve (error) </th>
+      <th>Serve Receive</th>
+      <th>Serve Receive (error) </th>
+      <th>Assist(for kill) </th>
+      <th>Kill </th>
+      <th>Kill(error) </th>
+      <th>Dig </th>
+      <th>Dig (error) </th>
+      </tr>
+      <tr>
+      <td><input type="text" name="name"><br></td>
+      <td><input type="text" name="serveinplay"><br></td>
+      <td><input type="text" name="serveace"><br></td>
+      <td><input type="text" name="serveerror"><br></td>
+      <td><input type="text" name="servereceive"><br></td>
+      <td><input type="text" name="servereceiveerror"<br></td>
+      <td><input type="text" name="assist"><br></td>
+      <td><input type="text" name="kill"><br></td>
+      <td><input type="text" name="killerror"><br></td>
+      <td><input type="text" name="dig"><br></td>
+      <td><input type="text" name="digerror"><br></td>
+      </tr>
+      <tr>
+      <td><input type="text" name="name"><br></td>
+      <td><input type="text" name="serveinplay"><br></td>
+      <td><input type="text" name="serveace"><br></td>
+      <td><input type="text" name="serveerror"><br></td>
+      <td><input type="text" name="servereceive"><br></td>
+      <td><input type="text" name="servereceiveerror"<br></td>
+      <td><input type="text" name="assist"><br></td>
+      <td><input type="text" name="kill"><br></td>
+      <td><input type="text" name="killerror"><br></td>
+      <td><input type="text" name="dig"><br></td>
+      <td><input type="text" name="digerror"><br></td>
+      </tr>
+      <tr>
+      <td><input type="text" name="name"></td>
+      <td><input type="text" name="serveinplay"><br></td>
+      <td><input type="text" name="serveace"><br></td>
+      <td><input type="text" name="serveerror"><br></td>
+      <td><input type="text" name="servereceive"><br></td>
+      <td><input type="text" name="servereceiveerror"<br></td>
+      <td><input type="text" name="assist"><br></td>
+      <td><input type="text" name="kill"><br></td>
+      <td><input type="text" name="killerror"><br></td>
+      <td><input type="text" name="dig"><br></td>
+      <td><input type="text" name="digerror"><br></td>
+      </tr>
+      <tr>
+      <td><input type="text" name="name"></td>
+      <td><input type="text" name="serveinplay"><br></td>
+      <td><input type="text" name="serveace"><br></td>
+      <td><input type="text" name="serveerror"><br></td>
+      <td><input type="text" name="servereceive"><br></td>
+      <td><input type="text" name="servereceiveerror"<br></td>
+      <td><input type="text" name="assist"><br></td>
+      <td><input type="text" name="kill"><br></td>
+      <td><input type="text" name="killerror"><br></td>
+      <td><input type="text" name="dig"><br></td>
+      <td><input type="text" name="digerror"><br></td>
+      </tr>
+      <tr>
+      <td><input type="text" name="name"></td>
+      <td><input type="text" name="serveinplay"><br></td>
+      <td><input type="text" name="serveace"><br></td>
+      <td><input type="text" name="serveerror"><br></td>
+      <td><input type="text" name="servereceive"><br></td>
+      <td><input type="text" name="servereceiveerror"<br></td>
+      <td><input type="text" name="assist"><br></td>
+      <td><input type="text" name="kill"><br></td>
+      <td><input type="text" name="killerror"><br></td>
+      <td><input type="text" name="dig"><br></td>
+      <td><input type="text" name="digerror"><br></td>
+      </tr>
+      </table>
+      </div>
+      
+      </body>
+      </html>
+      
+      
