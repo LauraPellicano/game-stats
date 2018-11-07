@@ -99,17 +99,6 @@ openDropdown.classList.remove('show');
 
 </script>
 
-<h1 align="center">Volleyball Statistics</h1>
-<img src="/Users/laura/Desktop/game-stats/volleyball.jpg" alt = "volleyball" width=200 align="right">
-<h2>How to manage your teams statistics<h2>
-<ol> 
-<li>Create a team profile</li>
-<li>Create a profile for each player on your team</li>
-<li>Create a game profile for each game in your season</li>
-<li>Within each game profile you will be able to upload each individuals players statistics for that specific game</li>
-<li>After each game you are able to look at the team profile and each individual profile for more details and graphs for the season!</li>
-</ol>
-
 <p1>Team Profile</p1>
 <div>
 <table id= "table1" style="width:100%">
