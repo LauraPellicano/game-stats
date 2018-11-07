@@ -1,4 +1,4 @@
-<!–– MAIN PAGE ––><html>
+<!-- MAIN PAGE --><html>
 <head>
 <title>Page Title</title>
 <style>
