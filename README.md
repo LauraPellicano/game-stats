@@ -63,8 +63,6 @@ display: block;
 </head>
 <body>
 
-<h2>Clickable Dropdown</h2>
-<p>Click on the button to open the dropdown menu.</p>
 
 <div class="dropdown">
 <button onclick="myFunction()" class="dropbtn">Menu</button>
@@ -99,6 +97,8 @@ openDropdown.classList.remove('show');
 
 </script>
 
+
+<h1> Volleyball Statistics</h1>
 <p1>Team Profile</p1>
 <div>
 <table id= "table1" style="width:100%">
