@@ -131,17 +131,11 @@ openDropdown.classList.remove('show');
 <input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
-</form>
-</table>
+
 
 
       
       <br/><br/>
-      
-     
-      
-      </body>
-      </html>
-      
+
       
       
