@@ -120,24 +120,6 @@ openDropdown.classList.remove('show');
 </table>
       
       
-      <table id= "table1" style="width:100%">
-      
-      <tr>
-      <form action="https://laurapellicano.github.io/volleyball-stats/" method="get"> 
-      <th><label for="teamname">Team Name:</label>
-      <input type="text" name="teamname"></th>
-      <th><label for="coachname">Coach Name:</label>
-      <input type="text" name="coachname"></th>
-      <th><label for="player">Player Name:</label>
-      <input type="text" number="player"></th>
-      <th><label for="gamesanddates">Game and Date:</label>
-      <input type="text" name = "gamesanddates"></th>
-      <div class="button">
-          <button type="submit">Send your message</button>
-                </div>
-                </form>
-                </table>  
-
 <table>
 <tr>
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
@@ -152,16 +134,6 @@ openDropdown.classList.remove('show');
 </form>
 </table>
 
-<form action="mailto:someone@example.com" method="post" enctype="text/plain">
- Name:<br>
-<input type="text" name="name"><br>
- E-mail:<br>
- <input type="text" name="mail"><br>
-Comment:<br>
-<input type="text" name="comment" size="50"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
- </form>
 
       
       <br/><br/>
