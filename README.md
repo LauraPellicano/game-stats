@@ -137,18 +137,20 @@ openDropdown.classList.remove('show');
                 </div>
                 </form>
                 </table>  
-                
-              <table>
-                <form action="mailto:someone@example.com" method="post" enctype="text/plain">
-                <th><label for="teamname">Team Name:</label>  Name:<br>
-                 <input type="text" name="name"><br>
-                  E-mail:<br>
-                   <input type="text" name="mail"><br>
-                   Comment:<br>
-                   <input type="text" name="comment" size="50"><br><br>
-                   <input type="submit" value="Send">
-                   <input type="reset" value="Reset">
-                   </table>
+
+<table>
+<tr>
+<form action="mailto:someone@example.com" method="post" enctype="text/plain">
+<th><label for="Name">Team Name:</label>  Name:<br>
+<input type="text" name="name"><br>
+<th><label for="Email">Team Name:</label> E-mail:<br>
+<input type="text" name="mail"><br>
+<th><label for="Comment">Team Name:</label>Comment:<br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</form>
+</table>
 
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
  Name:<br>
