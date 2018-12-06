@@ -113,8 +113,9 @@ openDropdown.classList.remove('show');
 <input type="text" number="player"></th>
 <th><label for="gamesanddates">Game and Date:</label>
 <input type="text" name = "gamesanddates"></th>
-<div class="button">
-    <button type="submit">Send your message</button>
+<div input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
       </div>
 </form>
 
