@@ -117,7 +117,7 @@ openDropdown.classList.remove('show');
     <button type="submit">Send your message</button>
       </div>
 </form>
-</table>
+
       
       
 <table>
