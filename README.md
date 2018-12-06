@@ -128,10 +128,11 @@ openDropdown.classList.remove('show');
 <th><label for="Email">Team Name:</label> E-mail:<br>
 <input type="text" name="mail"><br>
 <th><label for="Comment">Team Name:</label>Comment:<br>
+<div> 
 <input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
-
+</div>
 
 
       
