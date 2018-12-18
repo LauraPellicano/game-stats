@@ -98,26 +98,6 @@ openDropdown.classList.remove('show');
 </script>
 
 
-<h1> Volleyball Statistics</h1>
-<p1>Team Profile</p1>
-<div>
-<table id= "table1" style="width:100%">
-
-<tr>
-<form action="https://laurapellicano.github.io/volleyball-stats/" method="get"> 
-<th><label for="teamname">Team Name:</label>
-<input type="text" name="teamname"></th>
-<th><label for="coachname">Coach Name:</label>
-<input type="text" name="coachname"></th>
-<th><label for="player">Player Name:</label>
-<input type="text" number="player"></th>
-<th><label for="gamesanddates">Game and Date:</label>
-<input type="text" name = "gamesanddates"></th>
-<div input type="text" name="comment" size="50"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
-      </div>
-</form>
 
       
       
