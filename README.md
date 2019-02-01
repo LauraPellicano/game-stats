@@ -68,6 +68,7 @@ display: block;
 <button onclick="myFunction()" class="dropbtn">Menu</button>
 <div id="myDropdown" class="dropdown-content">
 <a href="https://laurapellicano.github.io/Home-Page/">Home</a>
+<a href = "https://laurapellicano.github.io/volleyball-stats/?teamname=&coachname=&gamesanddates=/"> Statistics</a>
 <a href="https://laurapellicano.github.io/Page2/">Page2</a>
 <a href="https://laurapellicano.github.io/Page3/">Page3</a>
 </div>
