@@ -1,4 +1,4 @@
-<!-- MAIN PAGE --><html>
+<!-- GAME-STATS --><html>
 <head>
 <title>Page Title</title>
 <style>
@@ -63,6 +63,7 @@ display: block;
 </head>
 <body>
 
+<h1 align="center">Volleyball Statistics</h1>
 
 <div class="dropdown">
 <button onclick="myFunction()" class="dropbtn">Menu</button>
