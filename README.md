@@ -128,7 +128,12 @@ openDropdown.classList.remove('show');
 
 <h2>HTML Image</h2>
 <img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
-      
+
+<form action="https://laurapellicano.github.io/volleyball-stats/" method="get"> 
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+      </div>
+            </form>      
       <br/><br/>
 
       
