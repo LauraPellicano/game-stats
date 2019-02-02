@@ -127,11 +127,12 @@ openDropdown.classList.remove('show');
 </div>
 </table>
 
-
+<table>
 <form method="get" action="https://laurapellicano.github.io/volleyball-stats/?teamname=&coachname=&gamesanddates=/">
 <button type="submit">Next</button>
 </form>
-x      <br/><br/>
+</table>
+<br/><br/>
 
       
       
