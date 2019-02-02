@@ -114,11 +114,11 @@ openDropdown.classList.remove('show');
 <input type="text" name="name"><br>
 <th><label for="Email"></label> E-mail:<br>
 <input type="text" name="mail"><br>
-<th><label for="Comment"></label>Comment:<br>
+<th><label for="Team Name"></label>Team Name:<br>
 <input type="text" name="TeamName"><br>
-<th><label for="Comment"></label>Team Name:<br>
+<th><label for="Coaches Name"></label>Coaches Name:<br>
 <input type="text" name="CoachesName"><br>
-<th><label for="Comment"></label>Coaches Name:<br>
+<th><label for="Comment"></label>Comment:<br>
 <input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
