@@ -128,7 +128,7 @@ openDropdown.classList.remove('show');
 
 
 <form>
-<input type="button" value="Put Your Text Here" onclick="window.location.href='http://www.hyperlinkcode.com/button-links.php'" />
+<input type="button" value="Next" onclick="window.location.href='https://laurapellicano.github.io/volleyball-stats/?teamname=&coachname=&gamesanddates=/'" />
 </form>
 <br/><br/>
 
