@@ -75,9 +75,9 @@ display: block;
 </div>
 </div>
 <h2 align = "center"> Welcome!</h2>
-<p1 align = "center"> Please fill our the name of the person doing the registration, an appropriate email, any comments you want to be made, the team name, and the coach's name. <p1>
-<p2 align= "center"> Once you have filled this out it will produce an email that will be sent to you recording your data then you will be ready to start taking statistcs for your team during each game <p2>
-<p3 align = "center"> Head over to the statistics page to begin <p3>
+<p1 align = "center"> Please fill our the name of the person doing the registration, an appropriate email, any comments you want to be made, the team name, and the coach's name. <p1><br>
+<p2 align= "center"> Once you have filled this out it will produce an email that will be sent to you recording your data then you will be ready to start taking statistcs for your team during each game. <p2><br>
+<p3 align = "center"> Head over to the statistics page to begin. <p3>
 
 <script>
 /* When the user clicks on the button, 
