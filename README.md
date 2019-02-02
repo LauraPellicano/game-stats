@@ -119,13 +119,13 @@ openDropdown.classList.remove('show');
 <th><label for="Comment"></label>Team Name:<br>
 <input type="text" name="CoachesName"><br>
 <th><label for="Comment"></label>Coaches Name:<br>
-<div> 
 <input type="text" name="comment" size="50"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
 </form>
 </div>
 </table>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+
 
 <table>
 <form method="get" action="https://laurapellicano.github.io/volleyball-stats/?teamname=&coachname=&gamesanddates=/">
