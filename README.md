@@ -126,7 +126,8 @@ openDropdown.classList.remove('show');
 </form>
 </div>
 
-
+<img src="http://animal.discovery.com/mammals/cheetah/pictures/cheetah-picture.jpg" 
+alt="Cheetah!" />
       
       <br/><br/>
 
