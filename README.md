@@ -127,11 +127,9 @@ openDropdown.classList.remove('show');
 <input type="reset" value="Reset">
 
 
-<table>
-<form method="get" action="https://laurapellicano.github.io/volleyball-stats/?teamname=&coachname=&gamesanddates=/">
-<button type="submit">Next</button>
+<form>
+<input type="button" value="Put Your Text Here" onclick="window.location.href='http://www.hyperlinkcode.com/button-links.php'" />
 </form>
-</table>
 <br/><br/>
 
       
