@@ -120,9 +120,6 @@ openDropdown.classList.remove('show');
 <input type="text" name="CoachesName"><br>
 <th><label for="Comment"></label>Coaches Name:<br>
 <input type="text" name="comment" size="50"><br><br>
-</form>
-</div>
-</table>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 
